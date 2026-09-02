@@ -19,4 +19,7 @@ uploads/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Project documentation intentionally kept out of the repository
+README*
  
